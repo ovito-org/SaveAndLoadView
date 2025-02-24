@@ -13,13 +13,13 @@ A small utility that allows users to save and load the view in the active viewpo
 - From the OVITO Pro using the [extensions GUI](https://www.ovito.org/docs/current/advanced_topics/python_extensions.html#topics-python-extensions)
 - OVITO Pro [integrated Python interpreter](https://docs.ovito.org/python/introduction/installation.html#ovito-pro-integrated-interpreter):
   ```
-  ovitos -m pip install --user git+https://github.com/nnn911/ResetViewportView.git
+  ovitos -m pip install --user git+https://github.com/ovito-org/SaveAndLoadView.git
   ``` 
   The `--user` option is recommended and [installs the package in the user's site directory](https://pip.pypa.io/en/stable/user_guide/#user-installs).
 
 - Other Python interpreters or Conda environments:
   ```
-  pip install git+https://github.com/nnn911/ResetViewportView.git
+  pip install git+https://github.com/ovito-org/SaveAndLoadView.git
   ```
 
 ## Technical information / dependencies
